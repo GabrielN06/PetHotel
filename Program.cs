@@ -27,7 +27,7 @@ Console.Clear();
 Console.WriteLine("+=========================================================+");
 
     Console.ForegroundColor = ConsoleColor.Yellow;
-Console.WriteLine("|               Pet Hotel \"Au Au Resort\"                  |");
+Console.WriteLine("|               Pet Hotel \"Nem um pio\"                  |");
 
     Console.ForegroundColor = ConsoleColor.Gray;
 Console.WriteLine("+=========================================================+");
